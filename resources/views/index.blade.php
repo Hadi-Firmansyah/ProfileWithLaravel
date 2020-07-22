@@ -53,7 +53,7 @@
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <h3 id="experience">Experience</h3>
+      <h3 id="experience">Experience</h3><br>
     </div>
   </div>
 
@@ -72,7 +72,7 @@
 <div class="container">
   <div class="row">
     <div class="col text-center">
-      <h3 id="portofolio">Portofolio</h3>
+      <h3 id="portofolio">Portofolio</h3><br>
     </div>
   </div>
 
